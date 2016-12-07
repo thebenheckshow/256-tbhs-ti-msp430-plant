@@ -3,13 +3,17 @@ MSP430 SUPER PLANT POWER!!!
 
 Ben Heck's TI Launchpad Plant Booster
 
-Ben builds a light compensator to supply indoor plants light when the sun isn’t able to provide enough light for them. He uses a Texas Instrument MSP430 Launchpad Development Board, a TI BOOST-AD7042, a DS1307 real time clock, and a grow light. Win Ben Heck’s Lunch Box Dev Kit: http://bit.ly/2cKuqn5
+Ben builds a light compensator to supply indoor plants light when the sun isn’t able to provide enough light for them. He uses a Texas Instrument MSP430 Launchpad Development Board, a TI BOOST-AD7042, a DS1307 real time clock, and a grow light. Win Ben Heck’s Lunch Box Dev Kit: 
+https://www.element14.com/community/docs/DOC-83230/l/win-ben-hecks-lunch-box-dev-kit-plus-a-beaglebone-bone-black-board
 
-Visit the Ben Heck page on the element14 community: http://bit.ly/2dkTD6z
+Visit the Ben Heck page on the element14 community: 
+https://www.element14.com/community/community/experts/benheck
 
-Let us know about any projects revolving around energy efficiency: http://bit.ly/2d4z4Mq
+Let us know about any projects revolving around energy efficiency: 
+https://www.element14.com/community/docs/DOC-83323/l/episode-256-ben-heck-s-ti-launchpad-plant-booster-episode
 
-Win Ben Heck’s Lunch Box Dev Kit plus BeagleBone Black Board: http://bit.ly/2cKuqn5
+Win Ben Heck’s Lunch Box Dev Kit plus BeagleBone Black Board: 
+https://www.element14.com/community/docs/DOC-83230/l/win-ben-hecks-lunch-box-dev-kit-plus-a-beaglebone-bone-black-board
 
 Ben gets his hands on a Texas Instrument MSP430 Launchpad Microcontroller Development Board with a TI BOOST ADS7042 booster pack. BOOST-ADS7042 is a high-speed, low powered ADC analog-to-digital converter. Karen suggests making a light array that gives supplemental light to plants only when they need it suggest as in the winter time.
 
